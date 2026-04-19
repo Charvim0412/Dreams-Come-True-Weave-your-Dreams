@@ -1,3 +1,4 @@
+# HACK AT PRINCETON 2026
 # 🌙 Lullaby — AI Sleep Companion
 
 Lullaby is an AI-powered sleep companion that generates personalized bedtime experiences including stories, lullabies, affirmations, and calming soundscapes.
